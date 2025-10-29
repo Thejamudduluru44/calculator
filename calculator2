@@ -1,1 +1,12 @@
-Making calculator using front and back end and i am learning
+U means untraced file 
+file add (git add (file name))
+Commit - git commit -m "Message" 
+Status - git status (it will show status of file)
+git push - git push origin main (that will push the file)
+M - modified the file - has to update
+git pull - it will pull the data from bit hub
+gitinit - it will 
+get add. it will stage all the modified files
+git branch - that can make a copy of main that don't effect main branch, you can do any chnages 
+git branch name change - git branch -m (main)as your wish you can change name
+git diff branch name
